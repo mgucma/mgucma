@@ -13,6 +13,13 @@
 
 > In my free time, I strive to develop my skills as a Back-end Java Developer.
 
+### 🍊 My Achievements on Codewars <br/> <br>
+
+[![Codewars Badge](https://www.codewars.com/users/mgucma/badges/large)](https://www.codewars.com/users/mgucma)
+
+### 💻 Projects
+[Online Book Store API](https://github.com/mgucma/onlinebook) - provides an API for managing books, categories, orders, and shopping carts, utilizing technologies like Spring Boot, JWT, and MySQL. The API supports CRUD operations and search functionalities, with detailed documentation accessible via Swagger for ease of use.<br> <br>
+
 #### 📊 My Stats on GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mgucma&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgucma&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
