@@ -4,7 +4,6 @@ Installation: Kubernetes clusters can be set up using tools like kubeadm, k3s, o
 Configuration: Includes setting up networking (Calico), storage (CSI drivers, e.g., Longhorn), and load balancing. Implement security practices like RBAC, network policies, and monitoring/logging with Prometheus, Grafana, and Fluentd.
 Maintenance: Regularly update Kubernetes versions and manage etcd backups, node health, and configuration drifts. Automate these tasks wherever possible to streamline maintenance.
 
-
 2. Installation and Management of a PostgreSQL Patroni Cluster
 Installation: Install PostgreSQL with Patroni (a PostgreSQL HA solution) and configure it on multiple nodes with etcd or Consul for distributed consensus.
 Configuration: Ensure parameters like synchronous replication and failover configurations are set up. Configure backups and continuous archiving with WAL (Write-Ahead Logging) for data recovery.
